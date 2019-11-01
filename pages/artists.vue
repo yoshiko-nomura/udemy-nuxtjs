@@ -2,6 +2,7 @@
   <div>
     <h1>artists</h1>
     <p>git練習用</p>
+    <p>br追加</p>
   </div>
 </template>
 
